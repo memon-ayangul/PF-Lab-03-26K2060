@@ -25,3 +25,13 @@ git status //checks and lists all changed/modified files
 git add //next step, asks git to start tracking files in the working area
 git commit //final step, takes a snapshot of current staging area
 ```
+[x] Task 1 - Create the repository and fill the README.md file
+[x] Task 2 - Branch, Commit and Pull Request
+[x] Task 3 - Markdown Documentation
+[x] Task 4 - Student Information Display
+[x] Task 5 - Data Type and Format Specifier Demonstration
+[x] Task 6 - Precision Comparison
+[x] Task 7 - Character Input and Output
+[x] Task 8 - Personal Profile Using String I/O
+[x] Task 9 - Formatted Student Report
+[x] Task 10 - C Output Formatting Challenge
